@@ -1,0 +1,9 @@
+jvm :- 1.it is not physically present, it is abstract.
+ 2.It is platform dependant
+
+ JRE:-
+ 1.jre is implementation of jvm
+ 2. IT CONTAINS JVM AND SET OF LIBRARIES
+
+ JDK:-
+ 1. JDK contains JRE and Development tools
