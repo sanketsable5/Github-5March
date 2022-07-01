@@ -6,11 +6,14 @@ public class MathematicalOperation {
         int subtraction =a-b;
         int division= a/b;
         int multiplication=a*b;
+        int module=a%b;
 
         System.out.println("addition="+addition);
         System.out.println("subtraction="+ subtraction);
         System.out.println("multiplication="+multiplication);
         System.out.println("division="+division);
+         System.out.println("module="+module);
+        
 
         System.out.println("hello "+ args[0]);
 
